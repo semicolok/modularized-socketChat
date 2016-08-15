@@ -1,4 +1,7 @@
 .git
 .gradle
 .idea
-./classes/
+classes/
+
+#Project files
+[Bb]uild/
